@@ -1,0 +1,29 @@
+body {
+    	background-color:white;
+    	font-family:"Georgia";
+    	text-justify:auto;
+        margin:25px 300px 25px 300px;
+}
+
+.picture {
+	display:block;
+    	margin-left:auto;
+    	margin-right:auto;
+    	width:30%;
+}
+
+.div-style1 {
+	background-color:#f3dbff;
+	padding:30px 75px;
+	text-align:justify;
+	border-style:none;
+	border-radius:10px;	
+}
+
+.div-style2 {
+	background-color:#c4efe5;
+	padding:30px 75px;
+	text-align:justify;
+	border-style:none;
+	border-radius:10px
+}

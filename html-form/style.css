@@ -1,0 +1,50 @@
+body {
+	background-color:white;
+	color:black;
+	font-family: "Georgia";
+}
+
+legend {
+	font-family: "Georgia";
+	font-weight:bold;
+	font-style:italic;
+}
+
+label {
+	font-style:italic;
+	font-size:16px;
+}
+
+.titulo {
+	text-align:center;
+	color:gray;	
+}
+
+.materia {
+	font-weight:bold;
+	font-style:normal;
+	color:gray;
+	font-size:14px;
+}
+
+.datosPersonales{
+	background-color:lightblue;
+}
+
+.cursos {
+	background-color:lightyellow;
+	font-size:16px;
+	font-weight:normal;
+}
+
+.selectOpciones {
+	font-style:normal;
+	font-size:16px;
+}
+
+.btnEnviar {
+	color:black;
+	font-size:20px;
+	font-weight:bold;
+	font-family: "Georgia";
+}
